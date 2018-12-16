@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 vipro = LINETCR.LINE()
 #vipro.login(qr=True)
-vipro.login(token='EpJgyNvzK8xQp88I04t9.2PnOnQMgNRHUYkUzkK6jEq./p92mOc1BPmafZPSgTcw4mkpBeT/czsWHBLRbK7Aewc=')
+vipro.login(token='EA66GJx1rAeuTVfg0Bjf.lR8QHD9kCy33qm2cHRZ0RW.2IxePCSUW86X32Pnqn+qkt9O3fFolKPIjGsY0L3ybAo=')
 vipro.loginResult()
 print "Vipro-Login Success\n\n=====[Sukses Login]====="
 
@@ -147,7 +147,7 @@ groupMessage ="""
 ║    〽️ line.me/ti/p/~gjxvipro 〽️
 ╚═════════════════════════
 """
-vip="uda936836a9869eb86ec8ab992a4e8979"
+vip="u2ebf2a85df4a718df740cd8286bcf4af"
 
 setMessage ="""
 ╔═════════════════════════
@@ -252,8 +252,8 @@ helpMessage ="""
 KAC=[vipro]
 mid = vipro.getProfile().mid
 Bots=[mid]
-Creator=["uda936836a9869eb86ec8ab992a4e8979"]
-admin=["uda936836a9869eb86ec8ab992a4e8979"]
+Creator=["u2ebf2a85df4a718df740cd8286bcf4af"]
+admin=["u2ebf2a85df4a718df740cd8286bcf4af"]
 
 contact = vipro.getProfile()
 backup1 = vipro.getProfile()
